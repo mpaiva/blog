@@ -2,10 +2,7 @@
 
 HTTP2 vai significar uma mudança na forma como devemos construir websites. As boas práticas de HTTP1 são prejudiciais no mundo do HTTP2.
 
----
-*HTTP1 é lento e ineficiente para a maioria dos casos de uso de hoje na web.*
-
----
+> *HTTP1 é lento e ineficiente para a maioria dos casos de uso de hoje na web.*
 
 HTTP1.x é a versão do HTTP que nós já conhecemos quando entramos o endereço de um web site. É um protocolo antigo que foi concebido antes mesmo de sabermos o que essa imensa rede mundial de computadores se tornaria. Apesar desse protocolo continuar funcionando como esperado, simplesmente não é tão eficiente como no início, porque ultimamente estamos exigindo algo muito mais complexo do que este protocolo foi projetado originalmente.
 
@@ -24,10 +21,7 @@ A última técnica, sharding, é porque os navegadores costumavam permitir apena
 
 ## HTTP2
 
----
-Não use as boas práticas do HTTP1 como base para um site que está sendo hospedado em HTTP2.
-
----
+> *Não use as boas práticas do HTTP1 como base para um site que está sendo hospedado em HTTP2.*
 
 O protocolo HTTP2 está quase aqui, ele é baseado no SPDY®, e isso torna tudo muito mais eficiente. Significa também que todas as técnicas de desempenho HTTP1 são prejudiciais. Eles irão fazer um site HTTP2 mais lento, e não mais rápido. Portanto, não use as boas práticas do HTTP1 como base para um site que está sendo hospedado em HTTP2.
 
