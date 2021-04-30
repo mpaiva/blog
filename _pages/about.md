@@ -5,7 +5,9 @@ permalink: /about/
 image: 01.jpg
 ---
 
-Hi, my name is Marcelo Paiva. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+Hi, my name is Marcelo Paiva. I lead user experience design and research teams for large corporations, consult with startups to build efficient cross-functional teams, processes and collaborative environments. 
+
+As self-motivtion and way of continuous learning, I also lead monthly UX community events in South Florida to advocate for accessibility and inclusive design.
 
 ***
 
