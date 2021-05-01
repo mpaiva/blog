@@ -20,7 +20,7 @@ This passion is evolving into helping professionals with all levels of disabilit
 #### User Experience Manager
 <small>UKG - Ultimate Kronos Group</small>
 
-Managing the design and research for the Recruiting, Onboarding, Performance Development/Management, Perception, and Learning products. My main focus is to remove any obstacles and allow team members to continuously learn, grow and lead. 
+Managing the design and research for the Recruiting, Onboarding, Performance Development, Performance Management, Perception (engagement surveys), and Learning products. My main focus is to remove any obstacles and allow team members to continuously learn, grow and lead. 
 
 #### UX Community Leader
 <small>South Florida UX Community</small>
