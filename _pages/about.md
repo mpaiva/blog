@@ -27,19 +27,19 @@ Managing the design and research for the Recruiting, Onboarding, Performance Dev
 
 My contribution to our local UX community ranges from organizing, speaking, mentoring, and promoting new local leaders. We are organized in different groups to help attend the entire UX spectrum and interests:
 
-- ___UX+Fajitas___ - Focused on sharing interface design architecture and tools best practices. Come and learn Figma, Sketch, Adobe XD, Protopie, Principle, and more.
+- --UX+Fajitas-- - Focused on sharing interface design architecture and tools best practices. Come and learn Figma, Sketch, Adobe XD, Protopie, Principle, and more.
 
-- ___IxDA South Florida___ - Local Interaction Design Association chapter. Knowledge sharing on the strategic side of UX with practitioners of service design and design thinking methodologies.   
+- --IxDA South Florida-- - Local Interaction Design Association chapter. Knowledge sharing on the strategic side of UX with practitioners of service design and design thinking methodologies.   
 
-- ___SOFLUX (UXPA)___ - Bringing the industry's best-selling authors and scholars to provide industry trends and ethical design topics. 
+- --SOFLUX (UXPA)-- - Bringing the industry's best-selling authors and scholars to provide industry trends and ethical design topics. 
 
-- ___Equity+Access___ - Featuring some of the best minds in the field of disability rights and accessibility.
+- --Equity+Access-- - Featuring some of the best minds in the field of disability rights and accessibility.
 
-- ___FluxYeah!___ - Our vibrant and evergrowing Slack workspace, keeping our members connected and engaged with a daily dose of knowledge sharing, industry news, and latest trends.
+- --FluxYeah!-- - Our vibrant and evergrowing Slack workspace, keeping our members connected and engaged with a daily dose of knowledge sharing, industry news, and latest trends.
 
-- ___FluxHours!___ - A group of local selfless professionals volunteering to provide 1:1 sessions to help community members.
+- --FluxHours!-- - A group of local selfless professionals volunteering to provide 1:1 sessions to help community members.
 
-- yourportfoliosUX___ - A fun way to participate and practice critique sessions. Because every UX professional needs help with portfolio reviews.
+- --yourportfoliosUX-- - A fun way to participate and practice critique sessions. Because every UX professional needs help with portfolio reviews.
 
 
 ### Previously on... my career 
