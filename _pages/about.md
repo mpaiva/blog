@@ -5,24 +5,26 @@ permalink: /about/
 image: speak-4.jpg
 ---
 
-## 👋 Hi, my name is Marcelo Paiva.
+## 😃 I am fulfilled.
 
-I am fortunate to lead user experience design and research teams for large corporations, consult with startups to build efficient cross-functional teams, processes, and collaborative environments. 
+I am very fortunate to lead teams for large corporations, consult with startups to build efficient cross-functional teams, processes, and collaborative environments. 
 
-During non-working hours, I share my learnings, successes, and failures with our UX community by hosting monthly events, advocating for accessibility and inclusion by design, not by compliance.
+During non-working hours, I share my learnings, successes and failures with our UX community by hosting monthly events, advocating for accessibility and inclusion.
 
 ***
 
-<small class="break">My work</small> 
+<small class="break">Current Work</small> 
 
 #### User Experience Manager
 <small>UKG - Ultimate Kronos Group</small>
 
-I lead a team of talented designers and researchers by removing any obstacles to allow them to learn, grow and become new leaders.
+I lead a team of talented designers and researchers. My goal as their leader is to remove any obstacles and allow them to learn, grow and become new leaders.
+
+UKG is global organization creating software for the Human Capital Management industry. I oversee teams creating experiences for its talent acquisition, performance development and learning products.
 
 ***
 
-<small class="break">My joy</small> 
+<small class="break">Current happiness</small> 
 
 #### UX Community Leader
 <small>South Florida UX Community</small>
@@ -35,7 +37,19 @@ My contribution to our local UX community ranges from organizing, speaking, ment
 - **Equity+Access** - Featuring some of the best minds in the field of disability rights and accessibility.
 - **FluxYeah!** - Our vibrant and evergrowing Slack workspace, keeping our members connected and engaged with a daily dose of knowledge sharing, industry news, and latest trends.
 - **FluxHours!** - A group of local selfless professionals volunteering to provide 1:1 sessions to help community members.
-- **yourportfoliosUX** - A fun way to participate and practice critique sessions. Because every UX professional needs help with portfolio reviews.
+- **YourPortfolioSUX** - A fun way to participate and practice critique sessions. Because every UX professional needs help with portfolio reviews.
+
+***
+
+<blockquote>
+I work.<br/>
+I create.<br/>
+I practice.<br/>
+I learn.<br/>
+I share.<br/> 
+That's my school...<br/>
+Why graduate?
+</blockquote>
 
 ***
 
