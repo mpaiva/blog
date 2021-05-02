@@ -11,9 +11,7 @@ I am fortunate to lead user experience design and research teams for large corpo
 
 During non-working hours, I share my learnings, successes, and failures with our UX community by hosting monthly events, advocating for accessibility and inclusion by design, not by compliance.
 
-FFor the past 5 years, my new passion has been performing in an educator capacity, helping community members learn about user-centered design practices and management. I have developed UX curriculums for Bootcamps, conducted dozens of workshops, and spent hundreds of hours mentoring community members interested in career pathing, portfolio reviews, team dynamics, and enterprise-level architecture and design operations. 
-
-This passion is evolving into helping professionals with all levels of disabilities to become designers and developers and build inclusive solutions with genuinely diverse teams.  
+For the past 5 years, my new passion has been performing in an educator capacity, helping community members learn about user-centered design practices and management. I have developed UX curriculums for bootcamps, conducted dozens of workshops, and dedicated hundreds of mentoring hours to the community. 
 
 ***
 
