@@ -9,9 +9,9 @@ image: 01.jpg
 
 I am fortunate to lead user experience design and research teams for large corporations, consult with startups to build efficient cross-functional teams, processes, and collaborative environments. 
 
-During non-working hours, I share my learnings, successes, and failures with our UX community by hosting monthly events, advocating for Accessibility and Inclusion by design, not by compliance.
+During non-working hours, I share my learnings, successes, and failures with our UX community by hosting monthly events, advocating for accessibility and inclusion by design, not by compliance.
 
-For the past 5 years, I have found a new passion as an educator, helping community members learn about user-centered design practices and management. I have developed UX curriculums for Bootcamps, conducted dozens of workshops, and spent hundreds of hours mentoring community members interested in career pathing, portfolio reviews, team dynamics, and enterprise-level architecture and design operations. 
+FFor the past 5 years, my new passion has been performing in an educator capacity, helping community members learn about user-centered design practices and management. I have developed UX curriculums for Bootcamps, conducted dozens of workshops, and spent hundreds of hours mentoring community members interested in career pathing, portfolio reviews, team dynamics, and enterprise-level architecture and design operations. 
 
 This passion is evolving into helping professionals with all levels of disabilities to become designers and developers and build inclusive solutions with genuinely diverse teams.  
 
@@ -20,14 +20,14 @@ This passion is evolving into helping professionals with all levels of disabilit
 #### User Experience Manager
 <small>UKG - Ultimate Kronos Group</small>
 
-Managing the design and research for the Recruiting, Onboarding, Performance Development, Performance Management, Perception (engagement surveys), and Learning products. My main focus is to remove any obstacles and allow team members to continuously learn, grow and lead. 
+Managing the design and research for the Recruiting; Onboarding; Performance Development; Performance Management; Perception (engagement surveys); and Learning products. My main focus is to remove any obstacles and allow team members to continuously learn, grow and lead. 
 
 #### UX Community Leader
 <small>South Florida UX Community</small>
 
 My contribution to our local UX community ranges from organizing, speaking, mentoring, and promoting new local leaders. We are organized in different groups to help attend the entire UX spectrum and interests:
 
-- **UX+Fajitas** - Focused on sharing interface design architecture and tools best practices. Come and learn Figma, Sketch, Adobe XD, Protopie, Principle, and more.
+- **UX+Fajitas** - Focused on sharing interface design architecture and tools best practices. Come and learn Figma; Sketch; Adobe XD; Protopie; Principle; and more.
 - **IxDA South Florida** - Local Interaction Design Association chapter. Knowledge sharing on the strategic side of UX with practitioners of service design and design thinking methodologies.   
 - **SOFLUX (UXPA)** - Bringing the industry's best-selling authors and scholars to provide industry trends and ethical design topics. 
 - **Equity+Access** - Featuring some of the best minds in the field of disability rights and accessibility.
@@ -67,4 +67,4 @@ Helped dozens of small businesses take off with a clean and consistent branding 
 #### CAD Drafter, Electrical Designer
 <small>General Electric, Rio de Janeiro</small>
 
-My career started as an electrical designer, fresh out of technical high school, working for GE in a six sigma environment, learning from the best in the industry then. I was fortunate enough to have experienced the traditional technical drafting with steel nib ink pen on paper.
+My career started as an electrical designer, fresh out of technical high school, working for GE in a Six Sigma environment, learning from the best in the industry then. I was fortunate enough to have experienced the traditional technical drafting with steel nib ink pen on paper.
