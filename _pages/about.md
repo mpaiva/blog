@@ -2,10 +2,10 @@
 layout: page
 title: About
 permalink: /about/
-image: speak-4.jpg
+image: speak-2.jpg
 ---
 
-## 😃 I am fulfilled.
+## Yes, I am fulfilled. 😃 
 
 I am very fortunate to lead teams for large corporations, consult with startups to build efficient cross-functional teams, processes, and collaborative environments. 
 
