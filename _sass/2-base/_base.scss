@@ -125,3 +125,16 @@ hr {
   border: 0;
   background: $light-gray;
 }
+
+p.caption {
+  display: block;
+  color: $dark;
+  background: $light-gray;
+  font-style: oblique;
+  padding: 8px;
+  margin: 0 0 60px 0;
+
+  &::before {
+    content: "Caption: "
+  }
+}
