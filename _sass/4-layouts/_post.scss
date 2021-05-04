@@ -44,20 +44,14 @@
 
   .post__tags {
    .post__tags-tag {
-     position: relative;
-     padding-left: 15px;
-     font-weight: 700;
-     &:before {
-       content: "";
-       position: absolute;
-       top: 50%;
-       left: 0;
-       transform: translateY(-50%);
-       width: 5px;
-       height: 5px;
-       border-radius: 50%;
-       background: $dark;
-     }
+    font-size: 12px;
+    letter-spacing: 0.5px;
+    position: relative;
+    padding-left: 15px;
+    font-weight: 500;
+    background:$light-gray;
+    padding:4px 8px;
+    border-radius: 4px;
    } 
   }
 }
@@ -98,6 +92,10 @@
 
 .post__content {
   margin-bottom: 40px;
+}
+
+.post__slide iframe { 
+  max-width: 100%;
 }
 
 .post__share {

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Resume
+permalink: /resume/
 image: speak-2.jpg
 ---
 

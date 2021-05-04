@@ -17,8 +17,9 @@ $global-transition: all .35s;
 // *****************
 $brand-color: #f60;
 $dark: #393e46;
-$gray: #bbbbbb;
+$gray: #666;
 $light-gray: #f0f0f0;
+$light: #eee;
 $white: #ffffff;
 $black: #000000;
 
@@ -33,7 +34,7 @@ $heading-font-color: $dark;
 
 // Links
 $link-color: $brand-color;
-$link-color-hover: darken($dark, 15%);
+$link-color-hover: darken($link-color, 25%);
 
 // Button
 $button-color: $white;
@@ -46,21 +47,21 @@ $border-color: $light-gray;
 // *****************
 // Typography
 // *****************
-$base-font-size: 16px;
+$base-font-size: 20px;
 $base-font-style: normal;
 $base-font-variant: normal;
 $base-font-weight: normal;
 $base-font-family: 'Roboto', Helvetica Neue, Helvetica, Arial, sans-serif;
-$base-line-height: 26px;
+$base-line-height: 120%;
 
 // Headings
 $heading-font-weight: 700;
-$heading-font-family: 'Roboto', Helvetica Neue, Helvetica, Arial, sans-serif;
+$heading-font-family: 'Space Grotesk', Helvetica Neue, Helvetica, Arial, sans-serif;
 
-$font-size-h1:  36px;
-$font-size-h2:  28px;
-$font-size-h3:  24px;
-$font-size-h4:  20px;
+$font-size-h1:  40px;
+$font-size-h2:  36px;
+$font-size-h3:  32px;
+$font-size-h4:  28px;
 $font-size-h5:  18px;
 $font-size-h6:  16px;
 
