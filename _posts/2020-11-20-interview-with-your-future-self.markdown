@@ -4,7 +4,10 @@ title:  "Interview with your future self"
 date:   2020-11-20 18:05:55 +0300
 image:  glen-hodson-NlHGKAZ3jCI-unsplash.jpg
 tags:   inclusive-design ageism empathy
+author: Marcelo Paiva
 ---
+
+<hr/>
 
 ## How does our own bias get  in the middle of our design decisions? 
 
@@ -12,15 +15,23 @@ We are driven by how we are brought up, the way we think, our past and current r
 
 But we forget one thing… Our body and mind are constantly evolving towards a state that requires more and more attention.
 
-### Takeaways
+<hr/>
 
-In this time-travel activity, I propose a Design Thinking activity to help you and your participants to interview your past and future selves:
+### Overview
+
+In this time-travel activity, I propose an activity that focuses on creating an inclusive mindset from the standpoint that a lack of disability is, in fact, only temporary. 
+
+Awareness of future disabilities or lifestyle changes could make us more aware of whom we are excluding today. If UX professionals anticipate that they will lose their current abilities, they will develop more inclusive mindsets.
+
+#### After this activity, you will:
 
 - learn from past mistakes,
 - identify any missed opportunities,
 - recognize how new technologies, techniques, or methodologies could have helped past projects,
 - consider your own potential future disabilities as you grow older
 - account for global events that could impact the way we live.
+
+<hr/>
 
 ### Don Norman's wisdom
 
@@ -44,51 +55,129 @@ In this recent article, Don Norman describes how much he didn't know about his f
 
 His article made me reflect on how biased we are towards our current conditions, abilities and mindset when we create solutions for others.
 
-__We are a collection of our past, not our future.__
+<blockquote>We are a collection of our past,<br/>not our future.</blockquote>
 
 We are driven by how we were raised. Whether we were exposed to different beliefs, or how many relationships we had along the way, how many heartbreaks, etc. 
 
 Because of our past experiences, in whatever profession we may choose, we will always make decisions based on how our present-self summons our collective past experiences.
 
-### Interviewing your future-self
+<hr/>
+
+## Interviewing your future self
 
 As a product designer, I am constantly thinking about the end-users and how they will interact with the design solutions I create. But what if I was blind myself? How different the solutions I design would be?
 
 
 <blockquote>
-But what if I was blind myself? How different the solutions I design would be?
+But what if I was blind myself?<br/>How differently would the solutions I design be?
 </blockquote>
 
 These question led me to create an inclusive design activity to help the teams developing empathy towards older adults and people with disabilities.
 
-Imagine for a moment, that you are visited by your future-self, returning from 30 years in the future to have a Ask Me Anything (AMA) session with you Today.
+Imagine for a moment, that you are visited by your future self, returning from 30 years in the future to have a Ask Me Anything (AMA) session with you Today.
 
 ![Two Marcelos appear next to each other, one looks much older, the yourger Marcelo looks at their old-self with a surpringly funny face.]({{ site.baseurl }}/images/post-01b.png)
 <p class="caption">
 Two Marcelos appear next to each other, one looks much older, the yourger Marcelo looks at their older-self with a surpringly funny face.
 </p>
 
+### Act quickly
 
-You were no given much notice. you have to act quickly and think of some questions to ask your future-self.
+You were no given much notice. you have to act quickly and think of some questions to ask your future self. What questions would you ask someone from the future?
+
+
+<hr/>
 
 <blockquote>What questions would you ask someone from the future?</blockquote>
 
-### The Worksheet
+<hr/>
+
+## Design Thinking Activity
+The following activity are broken into two parts:
+1. __Ice breaker__ - a fun way to connect participants with their older figures.
+2. __Interview__ - four simple steps to help participants generating, prioritizing and answering hypothetical questions, followed by a moment of self-reflection.   
+
+### Part 1: Ice Breaker
+Envisioning you as an older person using the face editor application FaceApp.
+
+- __Audience__ - Anyone looking to reflect on human behavior over time
+- __Duration__ - 5-10 minutes
+- __Expected Outcome__ - A fun way to empathise with your future conditions.
+- __Preparation__ - Download the app from one of the following app stores:
+
+![Download the FaceApp application by scanning one of the QR codes displayed on this image.]({{ site.baseurl }}/images/post-01f.jpg)
+<p class="caption"> Download the FaceApp application by scanning one of the QR codes displayed on this image.</p>
+
+
+- __Using the app__ - Download the app from one of the following app stores:
+
+![Step by step instructions on how to use the app.]({{ site.baseurl }}/images/post-01g.jpg)
+<p class="caption">Step by step instructions on how to use the app.</p>
+
+<hr/>
+
+### Part 2: Workshop
+
+##### Preparation: 
+Worksheet and photos from ice breaker activity
+
+##### Audience: 
+Anyone looking to reflect on human behavior over time
+
+##### Duration: 
+5-10 minutes for each step
+
+##### Expected Outcome: 
+An open discussion about our current behaviors impact others and how changes in society shape our moral and intellectual values
+
 
 ![Worksheet created by Marcelo Paiva inviting designers to think about their future self and the disabilities they may acquire over the years.]({{ site.baseurl }}/images/post-01c.png)
 
 <p class="caption"> Worksheet created by Marcelo Paiva inviting designers to think about their future self and the disabilities they may acquire over the years. </p>
 
+##### Step 1: Create questions
+
+If you could interview your future self, as someone who is much wiser and experienced, that have survived some hardships in life, seen the good in society, as well as new technological inventions, and been treated by the most advanced progress in science... what questions would you ask?
+
+Consider some categories:
+
+- __Living__: How the future has changed your way of living?
+- __Health__: Has your health been dimininshed?
+- __Relatives__: Has your family circle increased or decreased?
+- __Professional__: How much have your professional life impacted others?
+- __Disabilities__: Have the years brought you any permanent setbacks?
+- __Technology__: How the exponential growth in technology changed society?
+- __Society__: Have socio-economic gaps like gender, wealth and racism 
+impacted your life or the world?
+- __Bias__: Have you become aware of your own bias towards specific groups?
+- __World__: Have any catastrophic events disrupted humanity?
+
+![Worksheet created by Marcelo Paiva inviting designers to think about their future self and the disabilities they may acquire over the years.]({{ site.baseurl }}/images/post-01e.png)
+
+<p class="caption"> Worksheet created by Marcelo Paiva inviting designers to think about their future self and the disabilities they may acquire over the years. </p>
+
+#### Step 2: Challenge your questions
+
+What if:
+- If you could only ask one question?
+- If you had only 30 seconds?
+- If you could only ask about one of the above categories?
+
+Bonus:
+- What if you assume a future disability?
+
+#### Step 3: Listen to your future self
 
 
-The idea for this worksheet was sparked by Donald Norman’s reflection on how many products are badly designed for older adults and the lack of understanding of the needs of older adults (Norman, 2019). When using the worksheet, you can choose to interview your past or future self to reflect on lifestyles, health, career, and other areas of different periods in a life.
+Describe
 
+#### Step 4: Reflect on unnecessary behaviors
 
-![]({{ site.baseurl }}/images/post-01b.png)
+Describe
 
+### Tulane University's Design Thinking Breakfast
 
-
-This worksheet focuses on creating an inclusive mindset from the standpoint that a lack of disability is, in fact, only temporary. Awareness of future disabilities or lifestyle changes could make us more aware of whom we are excluding today. If UX professionals anticipate that they will lose their current abilities, they will develop more inclusive mindsets.
+The following deck was first presented in November 2020 at The Phyllis M. Taylor Center for Social Innovation and Design Thinking, as a guest speaker at Tulane University, as part of their Design Thinking Breakfast series. 
 
 <div class="post__slide">
 <!-- this is the embed code provided by Google -->
@@ -96,15 +185,19 @@ This worksheet focuses on creating an inclusive mindset from the standpoint that
 <!-- Google embed ends -->
 <p class="caption"> Please review the Google Slide presentation and don't hesitate to connect if you have any comments or questions.</p>
 
+
+
 </div>
+
+#### Credits
+Cover Photo by <a href="https://unsplash.com/@glenhodson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Glen Hodson</a> on <a href="https://unsplash.com/s/photos/old?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 
 
 ***
 
-Check out the [UXPA Journal of Usability Studies][uxpa-link] for more information on Learning to Recognize Exclusion. 
+### Next: Recognize Exclusion
 
-Cover Photo by <a href="https://unsplash.com/@glenhodson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Glen Hodson</a> on <a href="https://unsplash.com/s/photos/old?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+Check out the essay I co-wrote for the [UXPA Journal of Usability Studies][uxpa-link] and learn about the #1 principle for Inclusive Design principle: Recognize Exclusion.  
 
 [uxpa-link]: https://uxpajournal.org/learning-recognize-exclusion/

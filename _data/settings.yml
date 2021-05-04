@@ -11,7 +11,7 @@ author:
   name: Marcelo Paiva
   image: paiva-00.jpg
   say-hello: 👋 I’m <strong>Marcelo Paiva</strong>.
-  bio: A product designer, web developer, team builder and community leader.<br/><br/> Accessibility has been my focus, but Inclusive Design is my beacon.<br/><br/> <strong>Be aware of ALL people.</strong>
+  bio: A product designer, web developer, team builder and community leader.<br/><br/> Accessibility has been my focus, but Inclusive Design is my beacon.<br/><br/> <blockquote style="margin:0;">Be human, be inclusive.</blockquote>
 
 
 #-------------------------------
@@ -36,7 +36,7 @@ instagram-profile: mpaiva_ # Add instagram username
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: UA-60572505-1 # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------

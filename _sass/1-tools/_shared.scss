@@ -19,5 +19,14 @@ pre {
 
 ul, ol,
 dd {
-  margin-left: $base-spacing-unit;
+  margin-left: ($base-spacing-unit * 2);
+}
+
+li {
+  margin-bottom: $base-spacing-unit;
+  line-height: ($base-spacing-unit * 1.6);
+}
+
+p {
+  line-height: ($base-spacing-unit * 1.6);
 }

@@ -11,7 +11,7 @@
   }
 
   .post__date {
-    font-weight: 700;
+    font-weight: 400;
   }
 
   @media only screen and (max-width: $mobile) {
@@ -31,7 +31,7 @@
 
   .post__author {
     margin-right: 10px;
-    font-weight: 700;
+    font-weight: 400;
     
     .author-name {
       color: $gray;
@@ -44,7 +44,8 @@
 
   .post__tags {
    .post__tags-tag {
-    font-size: 12px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ; 
+    font-size: 16px;
     letter-spacing: 0.5px;
     position: relative;
     padding-left: 15px;
@@ -96,6 +97,7 @@
 
 .post__slide iframe { 
   max-width: 100%;
+  margin-bottom: 28px;
 }
 
 .post__share {

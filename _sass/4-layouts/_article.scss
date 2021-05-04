@@ -36,17 +36,19 @@
     color: $light;
 
     .article__tag {
-      font-size: 12px;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+      font-size: 16px;
       letter-spacing: 0.5px;
       position: relative;
       padding-left: 15px;
       font-weight: 500;
-      background:$black;
+      background:$dark-brand;
       color: $white;
       padding:4px 8px;
       border-radius: 4px;
       &:hover {
         color: $brand-color;
+        background-color: $light;
       }
     }
 
