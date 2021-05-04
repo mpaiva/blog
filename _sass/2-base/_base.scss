@@ -74,7 +74,19 @@ blockquote {
   letter-spacing: 0.5px;
   font-style: normal;
   text-align: center;
-  color: $brand-color;
+  color: $dark;
+  background-color: $light-gray;
+  padding: 24px;
+  border-radius: 16px;
+
+  span {
+    display: inline-block;
+    width: 100%;
+    text-align: right;
+    color: $gray;
+    font-size: 80%;
+    margin-top: 24px;
+  }
   
   @media only screen and (max-width: $tablet) {
     margin: 30px 0;
@@ -137,7 +149,7 @@ hr {
       border: 2px solid $brand-color;
       position: absolute;
       top: -5px;
-      left: 50%;
+      left: 42%;
       transform:rotate(45deg);
       -ms-transform:rotate(45deg); /* IE 9 */
       -webkit-transform:rotate(45deg); /* Opera, Chrome, and Safari */

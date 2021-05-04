@@ -48,7 +48,7 @@ I practice.<br/>
 I learn.<br/>
 I share.<br/> 
 That's my school...<br/>
-Why graduate?
+One day I'll graduate.
 </blockquote>
 
 ***
