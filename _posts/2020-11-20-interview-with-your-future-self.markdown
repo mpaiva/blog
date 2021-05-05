@@ -46,7 +46,7 @@ In this recent article, Don Norman describes how much he didn't know about his f
 
 <hr/>
 
-<blockquote>"Do not think that thoughtful design is just for the elderly, or the sick, or the disabled.<br/>In the field of design, this is called<br/> <strong>inclusive design</strong> for a reason:<br/>It helps everyone."
+<blockquote>"Do not think that thoughtful design is just for the elderly, or the sick, or the disabled.<br/>In the field of design, this is called <strong>inclusive design</strong> for a reason: It helps everyone."
 <br>
 <span>- Donald Norman, 2020</span>
 </blockquote>
@@ -55,7 +55,7 @@ In this recent article, Don Norman describes how much he didn't know about his f
 
 His article made me reflect on how biased we are towards our current conditions, abilities and mindset when we create solutions for others.
 
-<blockquote>We are a collection of our past,<br/>not our future.</blockquote>
+<blockquote>We are a collection of our past, not our future.</blockquote>
 
 We are driven by how we were raised. Whether we were exposed to different beliefs, or how many relationships we had along the way, how many heartbreaks, etc. 
 
@@ -65,7 +65,7 @@ Because of our past experiences, in whatever profession we may choose, we will a
 
 ## Interviewing your future self
 
-As a product designer, I am constantly thinking about the end-users and how they will interact with the design solutions I create. But what if I was blind myself? How different the solutions I design would be?
+As a product designer, I am constantly thinking about the end-users and how they will interact with the design solutions I create. But what if I was blind myself? How differently would the solutions I design be?
 
 
 <blockquote>
@@ -83,8 +83,7 @@ Two Marcelos appear next to each other, one looks much older, the yourger Marcel
 
 ### Act quickly
 
-You were no given much notice. you have to act quickly and think of some questions to ask your future self. What questions would you ask someone from the future?
-
+You were not given much notice about this unexpected visit. You will have to act quickly and think of some questions to ask your future self. 
 
 <hr/>
 
@@ -93,9 +92,10 @@ You were no given much notice. you have to act quickly and think of some questio
 <hr/>
 
 ## Design Thinking Activity
+
 The following activity are broken into two parts:
 1. __Ice breaker__ - a fun way to connect participants with their older figures.
-2. __Interview__ - four simple steps to help participants generating, prioritizing and answering hypothetical questions, followed by a moment of self-reflection.   
+2. __The Interview__ - four simple steps to help participants generating, prioritizing and answering hypothetical questions, followed by a moment of self-reflection.   
 
 ### Part 1: Ice Breaker
 Envisioning you as an older person using the face editor application FaceApp.
@@ -108,28 +108,17 @@ Envisioning you as an older person using the face editor application FaceApp.
 ![Download the FaceApp application by scanning one of the QR codes displayed on this image.]({{ site.baseurl }}/images/post-01f.jpg)
 <p class="caption"> Download the FaceApp application by scanning one of the QR codes displayed on this image.</p>
 
-
 - __Using the app__ - Download the app from one of the following app stores:
 
 ![Step by step instructions on how to use the app.]({{ site.baseurl }}/images/post-01g.jpg)
-<p class="caption">Step by step instructions on how to use the app.</p>
+<p class="caption">Step by step instructions on how to use the FaceApp. Credits to Laura Bries.</p>
 
-<hr/>
+### Part 2: The Interview
 
-### Part 2: Workshop
-
-##### Preparation: 
-Worksheet and photos from ice breaker activity
-
-##### Audience: 
-Anyone looking to reflect on human behavior over time
-
-##### Duration: 
-5-10 minutes for each step
-
-##### Expected Outcome: 
-An open discussion about our current behaviors impact others and how changes in society shape our moral and intellectual values
-
+- __Preparation__ - Worksheet and photos from ice breaker activity
+- __Audience__ - Anyone looking to reflect on human behavior over time
+- __Duration__ - 5-10 minutes for each step
+- __Expected Outcome__ - An open discussion about our current behaviors impact others and how changes in society shape our moral and intellectual values
 
 ![Worksheet created by Marcelo Paiva inviting designers to think about their future self and the disabilities they may acquire over the years.]({{ site.baseurl }}/images/post-01c.png)
 
