@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Interview with your future self"
-date:   2020-11-20 18:05:55 +0300
+date:   2021-04-29 18:05:55 +0300
 image:  glen-hodson-NlHGKAZ3jCI-unsplash.jpg
 tags:   inclusive-design ageism empathy
 author: Marcelo Paiva
@@ -23,11 +23,11 @@ Awareness of future disabilities or lifestyle changes could make us more aware o
 
 #### After this activity, you will:
 
-- learn from past mistakes,
-- identify any missed opportunities,
-- recognize how new technologies, techniques, or methodologies could have helped past projects,
+- learn from past mistakes
+- identify any missed opportunities
+- recognize how new technologies, techniques, or methodologies could have helped past projects
 - consider your own potential future disabilities as you grow older
-- account for global events that could impact the way we live.
+- account for global events that could impact the way we live
 
 <hr/>
 
@@ -35,18 +35,18 @@ Awareness of future disabilities or lifestyle changes could make us more aware o
 
 I came across a recent article by Don Norman titled: [I wrote the book on user-friendly design. What I see Today horrifies me](https://www.fastcompany.com/90338379/i-wrote-the-book-on-user-friendly-design-what-i-see-today-horrifies-me). 
 
-If you don't know Don Norman, he is one of the fathers of User Experience, and he wrote a popular book back in the 80s called [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654).
+Don Norman is one of the fathers of User Experience, and he wrote a popular book back in the 80s called [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654).
 
 ![The Design of Everyday Things by Don Norman, 1988. Illustration by Zachary Monteiro]({{ site.baseurl }}/images/post-01d.png)
 <p class="caption">The Design of Everyday Things by Don Norman, 1988. Illustration by Zachary Monteiro</p>
 
-In this recent article, Don Norman describes how much he didn't know about his future when he wrote his famous design book back in 1980:
+In this recent article, he describes how much he didn't know about his future when he wrote his famous design book back in 1980:
 
 <hr/>
 
 <blockquote>"Do not think that thoughtful design is just for the elderly, or the sick, or the disabled.<br/>In the field of design, this is called <strong>inclusive design</strong> for a reason: It helps everyone."
 <br>
-<span>- Donald Norman, 2020</span>
+<span>- Donald Norman, 2019</span>
 </blockquote>
 
 <hr/>
@@ -186,7 +186,7 @@ In my case, my future self told me:
 
 And gave some tips:
 
-<blockquote>It is never too late to exercise, meditate, and earn American Sign Language.</blockquote>
+<blockquote>It is never too late to exercise, meditate, and learn American Sign Language.</blockquote>
 
 
 ### Conclusion: Disabilities and Ageism

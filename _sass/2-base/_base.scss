@@ -86,7 +86,7 @@ blockquote {
   font-style: normal;
   font-weight: normal;
   text-align: center;
-  color: $dark;
+  color: darken($brand-color, 10);
   background-color: transparentize($brand-color, 0.92);
   padding: 32px 24px;
   border-radius: 16px;

@@ -2,8 +2,9 @@
 layout: page
 title: About
 permalink: /about/
-image: speak-2.jpg
+image: home.png
 ---
+<hr/>
 
 ## Yes, I am fulfilled. 😃 
 
