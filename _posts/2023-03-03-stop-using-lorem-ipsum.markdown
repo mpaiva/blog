@@ -17,7 +17,7 @@ The typical product life-cycle focus on the bottom-line and rarely accounts for 
 
 <hr/>
 
-<blockquote>As UX professionals, it is our responsibility to create solutions that are inclusive and accessible to ALL users, regardless of their race, color, national origin, religion, sex, age, disability, genetic information, marital status, political affiliation, and status as a parent, in order to provide equitable and accessible experiences for everyone.</blockquote>
+<blockquote>As UX professionals, it is our responsibility to create solutions that are inclusive and accessible to <span style="text-transform: underline;">ALL users</span>, regardless of their race, color, national origin, religion, sex, age, disability, genetic information, marital status, political affiliation, and status as a parent.</blockquote>
 
 <hr/>
 
