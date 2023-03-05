@@ -5,7 +5,7 @@ date:   2021-05-09
 image:  p2-cover.png
 tags:   figma sketch design-ops team collaboration
 ---
-The increasing demand for design teams to become more efficient presents challenges that have been in question since the early days of digital product design. 
+The increasing demand for product design teams to become more efficient presents challenges that have been in question since the early days of digital product design. 
 
 When Dropbox introduced cloud sharing folders and files, designers immediately took the offer and moved way from external hard disks and flash memory drives.
 
