@@ -3,6 +3,7 @@ layout: post
 title:  Stop using Lorem Ipsum! It creates barriers.
 date:   2023-03-03
 image:  p3-cover.png
+alt: An illustration of a multicultural group of children, including a boy in a wheelchair, smiling for a photo celebrating those who design with Accessibility in mind.
 tags:   accessibility content-design content-first design-process prototyping
 ---
 
@@ -21,8 +22,9 @@ The typical product life-cycle focus on the bottom-line and rarely accounts for 
 
 <hr/>
 
-## It's a new era for design collaboration
+## Adopt a content-first practice 
 
+A content-first approach called "Priority Guides" can help shift the focus towards content designing before the interface designing stage. This method is well-described in the A List Apart's article "Priority Guides: A Content-First Alternative to Wireframes" written by Heleen van Nues and Lennart Overkamp. By focusing on content first, designers and user researchers have the opportunity to shift-left on accessibility practices and bring in people with disabilities very early in the design process.
 
 ![A scared emoji, over Figma's layers panel, looks horrified at the way layers are named.]({{ site.baseurl }}/images/p2-01.png)
 <p class="caption">A scared emoji, over Figma's layers panel, looks horrified at the way layers are named.</p>

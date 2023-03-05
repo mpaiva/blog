@@ -4,6 +4,7 @@ title:  Learning to recognize exclusion
 date:   2021-02-22
 co-author: Lesley-Ann Noel, PhD.
 image:  austin-distel-WtXcbWXK_ww-unsplash.jpg
+alt: a person working on a coffee shop, holdin a coffe mug with the 80/20 rule printed on the mug. The unsconscious bias towards the 80 percent of a group is descrived in this post as an exclusionary trigger inposed on the remaining 20%, which is often represented by people with disabilities.  
 tags:   inclusive-design empathy racism positionality design-thinking
 ---
 

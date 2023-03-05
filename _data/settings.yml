@@ -1,19 +1,19 @@
+---
 #-------------------------------
 # General Site Settings
 title: Marcelo Paiva
 logo: logo.svg # You can add own logo.
 description: A site about my failures and successes that just happen to inspire people I meet along the way.
 
-
 #-------------------------------
 # Author Settings
 author:
   name: Marcelo Paiva
   image: home.png
+  alt: Seamless pattern with a multicultural group of women and men (Muslim, Asian, European, Hindu) on a white background. Social diversity. Doodle cartoon vector seamless pattern.
   say-hello: 👋 I’m <strong>Marcelo Paiva</strong>.
-  bio: A design leader, product designer, web developer, team builder and community volunteer.<br/><br/>I help design teams grow without leaving developers or product managers behind.<br/><br/>Advocating for accessibility has been my focus, but inclusive design is my beacon to create solutions for all.<br/><br/> 
+  bio: A design leader, product designer, web developer, team builder and community volunteer.<br/><br/>I help design teams grow without leaving developers or product managers behind.<br/><br/>Advocating for accessibility has been my focus, but inclusive design is my beacon to create solutions for all.<br/><br/>
   tagline: <blockquote style="margin:0;">Be human, be inclusive.</blockquote>
-
 
 #-------------------------------
 # Contact links
@@ -23,22 +23,18 @@ dribbble: https://dribbble.com/mpaiva # Add your Dribbble handle
 linkedin: https://www.linkedin.com/in/mtpaiva/ # Add your LinkedIn handle
 # pinterest: https://pinterest.com/ # Add your Pinterest handle
 
-
 #-------------------------------
 # Comment Section (Disqus)
 disqus-identifier: mpaiva # add your shortname for Disqus Comment. For example mr-brown
-
 
 #-------------------------------
 # Instagram Feed
 instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
 instagram-profile: mpaiva_ # Add instagram username
 
-
 #-------------------------------
 # Google Analytics
 google-analytics: UA-60572505-1 # Add your identifier. For example UA-99631805-1.
-
 
 #-------------------------------
 # Newsletter
