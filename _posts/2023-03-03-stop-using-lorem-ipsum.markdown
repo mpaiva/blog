@@ -5,30 +5,13 @@ date:   2023-03-03
 image:  p3-cover.png
 tags:   accessibility content-design content-first design-process prototyping
 ---
-The increasing demand for product design teams to become more efficient presents challenges that have been in question since the early days of digital product design. 
 
-When Dropbox introduced cloud sharing folders and files, designers immediately took the offer and moved way from external hard disks and flash memory drives.
 
-New problems surfaced, which led teams to think of sharing and collaboration practices, such as: 
-file naming convention 
-folder organization
-version control
-archiving and backups
+Many UX professionals struggle to incorporate accessibility considerations into their design process, resulting in poor experiences for users with disabilities. 
 
-We are now entering a new era for product designing: Real-time collaboration and pairing.
+The lack of focus on content and accessibility in early design concepts often excludes people with disabilities from user research studies, leading to a gap in their user experience.
 
 ## Real-time what?
-As design tools release real-time collaboration features, design teams struggle to adapt to this new way of working. 
-
-These new features invite designers - and managers - to be more thoughtful about scalable interface design architecture.
-
-As design systems are introduced to teams, many design decisions are removed from our day-to-day tasks, which raises new questions, such as:
-How to work in the same file without conflicting with each other's tasks?
-How to best create and leverage reusable components?
-How to consistently organize and name our teams, projects, files, pages, layers. 
-What to share and how to get feedback from stakeholders or engineers?
-
-Do all these sound familiar? Here's my advice: Unlearn everything about collaborating with other designers!
 
 <hr/>
 
@@ -38,11 +21,6 @@ Do all these sound familiar? Here's my advice: Unlearn everything about collabor
 
 ## It's a new era for design collaboration
 
-Design is a craft that requires much intent on every single shape, text, or design property we change. 
-
-For over two decades, the design industry promoted individualistic skills and tools. As a result, our organizational skills were only required during hand-off.
-
-The new era of sharing and collaborating with your teammates will despise names like "__Rectangle 932__", or "__Group 327__," or even files with your initials on them.
 
 ![A scared emoji, over Figma's layers panel, looks horrified at the way layers are named.]({{ site.baseurl }}/images/p2-01.png)
 <p class="caption">A scared emoji, over Figma's layers panel, looks horrified at the way layers are named.</p>
