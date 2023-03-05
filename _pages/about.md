@@ -6,7 +6,7 @@ image: home.png
 ---
 <hr/>
 
-## Yes, I am fulfilled. 😃 
+## I love what I do 😃 
 
 I am very fortunate to lead teams for large corporations, consult with startups to build efficient cross-functional practices, processes, and collaborative environments. 
 
