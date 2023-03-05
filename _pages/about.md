@@ -8,7 +8,7 @@ image: home.png
 
 ## Yes, I am fulfilled. 😃 
 
-I am very fortunate to lead teams for large corporations, consult with startups to build efficient cross-functional teams, processes, and collaborative environments. 
+I am very fortunate to lead teams for large corporations, consult with startups to build efficient cross-functional practices, processes, and collaborative environments. 
 
 During non-working hours, I share my learnings, successes and failures with our UX community by hosting monthly events, advocating for accessibility and inclusion.
 
