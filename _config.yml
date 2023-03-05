@@ -1,5 +1,5 @@
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://paiva.cc/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mpaiva.github.io/resume/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
