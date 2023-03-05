@@ -9,7 +9,7 @@ tags:   accessibility content-design content-first design-process prototyping
 
 Many UX professionals struggle to incorporate accessibility considerations into their design process, resulting in poor experiences for users with disabilities. 
 
-## It is an industry problem of exclusion
+## It is an industry problem, and it leads to exclusion.
 
 The lack of focus on content and accessibility in early design concepts often excludes people with disabilities from user research studies, leading to a gap in their user experience.
 
