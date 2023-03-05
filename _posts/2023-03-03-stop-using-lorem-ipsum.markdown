@@ -15,13 +15,9 @@ The lack of focus on content and accessibility in early design concepts often ex
 
 The typical product life-cycle focus on the bottom-line and rarely accounts for good UX for people with disabilities.   
 
-## Our responsibility as UX professionals
-
-
-
 <hr/>
 
-<blockquote>Unlearn everything about collaborating with other designers!</blockquote>
+<blockquote>As UX professionals, it is our responsibility to create solutions that are inclusive and accessible to ALL users, regardless of their race, color, national origin, religion, sex, age, disability, genetic information, marital status, political affiliation, and status as a parent, in order to provide equitable and accessible experiences for everyone.</blockquote>
 
 <hr/>
 
