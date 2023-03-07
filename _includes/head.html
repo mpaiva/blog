@@ -1,32 +1,85 @@
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.title }}{% endif %}</title>
-  <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.settings.description }}{% endif %}'>
+  <title>
+    {% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.title
+    }}{% endif %}
+  </title>
+  <meta
+    name="description"
+    content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.settings.description }}{% endif %}"
+  />
 
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  <link
+    rel="canonical"
+    href="{{ page.url | replace:'index.html','' | absolute_url }}"
+  />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape
+  }}" href="{{ "/feed.xml" | relative_url }}">
 
   <!-- Fonts -->
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;700&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-  
-  <!-- Ionicons -->
-  <link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;700&display=swap"
+    rel="stylesheet"
+  />
+  <link
+    href="https://fonts.googleapis.com/css?family=Roboto:400,500,700"
+    rel="stylesheet"
+  />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+    rel="stylesheet"
+  />
 
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/favicon-16x16.png">
-  <link rel="manifest" href="{{ site.baseurl }}/site.webmanifest">
+  <!-- Ionicons -->
+  <link
+    href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css"
+    rel="stylesheet"
+  />
+
+  <link
+    rel="apple-touch-icon"
+    sizes="180x180"
+    href="{{ site.baseurl }}/apple-touch-icon.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="32x32"
+    href="{{ site.baseurl }}/favicon-32x32.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="16x16"
+    href="{{ site.baseurl }}/favicon-16x16.png"
+  />
+  <link rel="manifest" href="{{ site.baseurl }}/site.webmanifest" />
+
+  <!-- SkipTo - Accessible navigation -->
+  <script src="https://paypal.github.io/skipto/downloads/js/skipto.min.js"></script>
 
   <style>
-  {% capture include_to_scssify %}
-    {% include main.scss %}
-  {% endcapture %}
-  {{ include_to_scssify | scssify }}
+    {% capture include_to_scssify %}
+      {% include main.scss %}
+    {% endcapture %}
+    {{ include_to_scssify | scssify }}
   </style>
+
+  <script>
+    var SkipToConfig = {
+      settings: {
+        skipTo: {
+          landmarks: 'main, [role="main"], [role="search"], nav, [role="navigation"]',
+          headings: "main h1, main h2, main h3",
+          colorTheme: "illinois",
+          displayOption: "popup",
+          positionLeft: "24px",
+        },
+      },
+    };
+  </script>
 </head>

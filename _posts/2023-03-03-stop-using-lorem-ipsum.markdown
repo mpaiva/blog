@@ -8,58 +8,39 @@ tags:   accessibility content-design content-first design-process prototyping
 ---
 
 
-Many UX professionals struggle to incorporate accessibility considerations into their design process, resulting in poor experiences for users with disabilities. 
+As UX professionals, we have a responsibility to ensure that our designs are inclusive and accessible to all users, including those with disabilities. Unfortunately, many designers and researchers struggle to incorporate accessibility considerations into their design process, which can result in poor experiences for users with disabilities. 
 
 ## It is an industry problem, and it leads to exclusion.
 
-The lack of focus on content and accessibility in early design concepts often excludes people with disabilities from user research studies, leading to a gap in their user experience.
-
-The typical product life-cycle focus on the bottom-line and rarely accounts for good UX for people with disabilities.   
+One of the biggest barriers to accessibility is poor content. If designers continue to use Lorem Ipsum content placeholders in early design concepts, people with disabilities that rely on assistive technologies like screen readers will continue to be excluded from early user research studies.
 
 <hr/>
 
-<blockquote>As UX professionals, it is our responsibility to create solutions that are inclusive and accessible to <span style="text-transform: underline;">ALL users</span>, regardless of their race, color, national origin, religion, sex, age, disability, genetic information, marital status, political affiliation, and status as a parent.</blockquote>
+<blockquote>As UX professionals, it is our responsibility to create solutions that are inclusive and accessible to ALL users, regardless of their race, color, national origin, religion, sex, age, disability, genetic information, marital status, political affiliation, and status as a parent.</blockquote>
 
 <hr/>
 
 ## Adopt a content-first practice 
 
-A content-first approach called "Priority Guides" can help shift the focus towards content designing before the interface designing stage. This method is well-described in the A List Apart's article "Priority Guides: A Content-First Alternative to Wireframes" written by Heleen van Nues and Lennart Overkamp. By focusing on content first, designers and user researchers have the opportunity to shift-left on accessibility practices and bring in people with disabilities very early in the design process.
+So what can we do to change this behavior and create more inclusive designs? One solution is to focus on creating good content from the beginning using a content-first approach called "Priority Guides."
 
-![A scared emoji, over Figma's layers panel, looks horrified at the way layers are named.]({{ site.baseurl }}/images/p2-01.png)
-<p class="caption">A scared emoji, over Figma's layers panel, looks horrified at the way layers are named.</p>
+__Priority Guides__ are a way to focus on content design before interface design by creating a hierarchy of headlines and element blocks sorted by user needs. This content-first practice is well-described in A List Apart's article <a href="https://alistapart.com/article/priority-guides-a-content-first-alternative-to-wireframes/" target="_blank" rel="noopener noreferrer">Priority Guides: A Content-First Alternative to Wireframes</a>, by Heleen van Nues and Lennart Overkamp.
+
+## Bridging Content-first with Accessible Prototyping
+
+To take this approach a step further, I'm excited to introduce "No Latin" (<a href="https://nolatin.com" target="_blank" rel="noopener noreferrer">nolatin.com</a>) - a free web-based app that converts Priority Guides into an accessible web prototype. 
+
+The goal is to improve the user experience for people with disabilities by identifying and eliminating the use of Latin-based scripts (i.e., Lorem Ipsum) in the design industry and motivate UX professionals to write quality content early so people with disabilities can participate in research studies much earlier.
+
+By combining a content-first approach with accessible prototyping, we can create designs that are not only more inclusive but also more efficient and effective. 
+
+With <a href="https://nolatin.com" target="_blank" rel="noopener noreferrer">No Latin</a>, designers can focus on creating quality content from the start and ensure that their designs are accessible to everyone.
+
+## Conclusion
+
+
+In conclusion, let's make a conscious effort to prioritize accessibility and inclusivity in our designs. As UX professionals, it is our responsibility to create solutions that are accessible to ALL users, regardless of their race, color, national origin, religion, sex, age, disability, genetic information, marital status, political affiliation, and status as a parent. 
+
+Let's say goodbye to Lorem Ipsum and hello to accessible design for all.
 
 <hr/>
-
-## Figma migration<br/>without the drama
-
-![A scared emoji, over Figma's layers panel, looks horrified at the way layers are named.]({{ site.baseurl }}/images/nathan-dumlao-Y-H5pu2oglE-unsplash.jpg)
-<p class="caption">A two year old boy, wearing a birthday party hat, seating on the beach, cries, as someone approaches him with a cupcake - Photo by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nathan Dumlao</a> on <a href="https://unsplash.com/s/photos/crying?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>
-
-
-The following is a collection of notes and tips the UX+Fajitas community collected over the past couple of years on switching from Sketch to Figma. 
-
-We have made the presentation deck available to help the community making the best decisions when migrating teams to Figma.
-
-Some of the topics include:
-
-1. Why Figma? Why now?
-2. DesignOps for Figma
-3. Plugins for efficient teams
-4. Project Workflow 
-5. Pro-tips
-6. Figma Branching
-7. Bridging Design and Development  
-8. Distributed Design 
-
-<br/>
-
- <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT23gstkcvQSWjfRJDZh5qC-S95Pe8bvtw2baxkuvoRDurwjmwNCCjWkHBXK2r0eVHsqo5TksbMr-xY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="340" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<br/>
-
- Over the coming weeks, I will detail these best practices in separate posts with practical examples and resource files.
-
- Stay tuned!
-
- <hr/>
