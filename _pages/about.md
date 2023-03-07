@@ -23,11 +23,31 @@ During non-working hours, I share my learnings, successes and failures with our 
 
 I lead a team of talented designers and researchers. My goal as their leader is to remove any obstacles and allow them to learn, grow and become new leaders.
 
-UKG is global organization creating software for the Human Capital Management industry. I oversee teams creating experiences for its talent acquisition, performance development and learning products.
+UKG is a global organization creating experiences for the Human Capital Management industry. I oversee the UX teams for Talent Acquisition, Talent Management, HR, Payroll and Great Places to Work.
 
 ---
 
 <small class="break">Current happiness</small>
+
+#### Public Speaking
+
+As a public speaker, I host frequent meet-ups and contribute in UX and Accessibility conferences worldwide, educating the community on Inclusive and Accessible Design. Contributions include:
+
+<small>38th Annual CSUN Assistive Technology Conference (2023)</small>
+
+Rapid Prototyping with Accessibility in Mind – Stop using Lorem Ipsum. It creates barriers (https://nolatin.com/)
+
+<small>37th Annual CSUN Assistive Technology Conference (2022)</small>
+
+Rapid Prototyping with Accessibility in Mind – Tools and methods UX professionals can use to shift-left.
+
+<small>ICT Accessibility Testing Symposium 2020</small>
+
+Awarded best presentation on "Focus-first: a new front-end approach" (https://wtfoc.us/)
+
+<small>Tulane University – Design Thinking for Social Innovation (2020)</small>
+
+Designing for your Future-self - In this time-travel activity, the goal is to create empathy about general disabilities and individual preferences, and how to apply that in the Design practice. I take the audience back to their childhood and then to their older-selves to have a conversation about their current disabilities and health advices.
 
 #### UX Community Leader
 
@@ -35,7 +55,7 @@ UKG is global organization creating software for the Human Capital Management in
 
 My contribution to our local UX community ranges from organizing, speaking, mentoring, and promoting new local leaders. We are organized in different groups to help attend the entire UX spectrum and interests:
 
-- **UX+Fajitas** - Focused on sharing interface design architecture and tools best practices. A group to learn Figma; Sketch; Adobe XD; Protopie; Principle; and more.
+- **UX+Fajitas** - Focused on sharing Accessibility Design, UX methods and tools best practices.
 - **IxDA South Florida** - Local Interaction Design Association chapter. Knowledge sharing on the strategic side of UX with practitioners of service design and design thinking methodologies.
 - **SOFLUX (UXPA)** - Bringing the industry's best-selling authors and scholars to provide industry trends and ethical design topics.
 - **Equity+Access** - Featuring some of the best minds in the field of disability rights and accessibility.
@@ -52,7 +72,7 @@ I practice.<br/>
 I learn.<br/>
 I share.<br/> 
 That's my school...<br/>
-One day I'll graduate.
+One day, I'll graduate.
 </blockquote>
 
 ---
@@ -61,13 +81,17 @@ One day I'll graduate.
 
 #### As leader
 
-<small>Sapient Global Markets, New York City</small>
+<small>Creative Director - ProcessMap, Corp, Florida</small>
 
-Consulted with various Wall Street banks to accelerate embedded design teams with Lean UX practices.
+Built a world-class cross-functional team of designers and front-end developers; established a healthy and fast-paced creative environment that enabled frequent engagement with end-users.
 
-<small>Reuters, Boston/New York City</small>
+<small>Creative Director - Sapient Global Markets, New York City</small>
 
-Contributed as the first certified ScrumMaster, building cross-functional teams and creating new methods to foster collaboration among UX designers, engineers and product management.
+Played a strategic role in introducing Lean UX practices in the design process to help accelerate the way Sapient UX teams were embedded in Agile environments. Lead multiple strategic design initiatives with Wall Street banks while directing product design teams.
+
+<small>UX Director - Reuters, Boston/New York City</small>
+
+Thomson Reuters Eikon Mobile - Responsible for the overall interaction design of wearables, smartphones, and tablets for Thomson Reuters Eikon. Introduced responsive web design practices design systems components, while converting .Net into proper web standards adoption using HTML5 and CSS3 using Angular.
 
 ---
 
@@ -75,11 +99,11 @@ Contributed as the first certified ScrumMaster, building cross-functional teams 
 
 <small>Verizon, Waltham</small>
 
-Worked on a small task force team, generating new business development ideas, pitching to executives for future industry partner meetings.
+Generated forward-looking concepts, business, and use-case scenarios for the next generation of communication products using Verizon's fiber-optic FIOS network vision.
 
 <small>Zefer, Boston/New York</small>
 
-Lead several initiatives around interaction design, usability studies, and web development for clients such as Fidelity Investments, Citizens Bank, Siemens, and the Lincoln Center for the Performing Arts.
+Lead multiple usability studies with interactive prototyping for Fidelity Investments, Siemens, Citizens Bank, Citi Bank and start-ups.
 
 <small>Freelancer</small>
 
@@ -87,4 +111,4 @@ Helped dozens of small businesses take off with a clean and consistent branding 
 
 <small>General Electric, Rio de Janeiro</small>
 
-My career started as an electrical designer, fresh out of technical high school, working for GE in a Six Sigma environment, learning from the best in the industry then. I was fortunate enough to have experienced the traditional technical drafting with steel nib ink pen on paper.
+My career started as an electrical designer, working for GE in a Six Sigma environment, and probably the last generation to practice the traditional technical drafting with steel nib ink pen on paper, before the computer-aid drafting (CAD).
