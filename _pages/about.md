@@ -7,23 +7,24 @@ image: home.png
 
 <hr/>
 
-## I love what I do 😃
+## This is what I do. This is what I love... 😃
 
-I am very fortunate to lead teams for large corporations, consult with startups to build efficient cross-functional practices, processes, and collaborative environments.
+I feel privileged and honored to have worked with many talented people. They were my teachers, and I am forever thankful for team members and leaders - the good and the bad. 
 
-During non-working hours, I share my learnings, successes and failures with our UX community by hosting monthly events, advocating for accessibility and inclusion.
+During non-working hours, I share my learnings, successes, and failures with our UX community by hosting monthly events and advocating for accessibility and inclusion.
 
 ---
 
-<small class="break">Current Work</small>
+<small class="break">Professional Experience</small>
 
-#### User Experience Manager
+### Sr. User Experience Manager
 
-<small>UKG - Ultimate Kronos Group</small>
+<small>UKG - Ultimate Kronos Group (April 2018 - March 20223)</small>
 
-I lead a team of talented designers and researchers. My goal as their leader is to remove any obstacles and allow them to learn, grow and become new leaders.
+- Responsible for the entire HCM product offering, overseeing the experience design efforts for HR, Payroll, Talent Acquisition, Talent Management, and Great Places to Work.
+- Mentoring designers and researchers in adopting inclusive design practices with Accessibility in mind.
+- Providing thought-leadership to team members and close collaboration with strategic business partners through Design Thinking facilitation.
 
-UKG is a global organization creating experiences for the Human Capital Management industry. I oversee the UX teams for Talent Acquisition, Talent Management, HR, Payroll and Great Places to Work.
 
 ---
 
