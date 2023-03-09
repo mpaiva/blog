@@ -5,7 +5,7 @@ date:   2021-02-22
 co-author: Lesley-Ann Noel, PhD.
 image:  austin-distel-WtXcbWXK_ww-unsplash.jpg
 alt: In this photo, the 80/20 rule, printed on a coffee mug held by someone working at a coffee shop, is described as an exclusionary trigger imposed on the 20% of a group, often represented by people with disabilities.  
-tags:   inclusive-design empathy racism positionality design-thinking
+# tags:   inclusive-design empathy racism positionality design-thinking
 ---
 
 by  [Lesley-Ann Noel](https://uxpajournal.org/author/lesley-ann-noel/ "Posts by Lesley-Ann Noel"),  [Marcelo Paiva](https://uxpajournal.org/author/marcelo-paiva/ "Posts by Marcelo Paiva")

@@ -4,7 +4,7 @@ title:  "Interview with your future self"
 date:   2021-04-29 18:05:55 +0300
 image:  glen-hodson-NlHGKAZ3jCI-unsplash.jpg
 alt: A portrait of an lady in her seventies, smiling, displaying in her facial expression the warmth in her character as well as all the experiences that she has lived throughout her life.
-tags:   inclusive-design ageism empathy
+# tags:   inclusive-design ageism empathy
 author: Marcelo Paiva
 ---
 

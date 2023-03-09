@@ -4,7 +4,7 @@ title:  Migrating to Figma, without the drama.
 date:   2021-05-09
 image:  p2-cover.png
 alt: Cover image for this post shows the two product logos for Sketch and Figma side by side conveying a competitive situation.
-tags:   figma sketch design-ops team collaboration
+# tags:   figma sketch design-ops team collaboration
 ---
 The increasing demand for product design teams to become more efficient presents challenges that have been in question since the early days of digital product design. 
 
