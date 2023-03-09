@@ -4,7 +4,7 @@ title:  Stop using Lorem Ipsum! It creates barriers.
 date:   2023-03-03
 image:  p3-cover.png
 alt: An illustration of a multicultural group of children, including a boy in a wheelchair, smiling for a photo celebrating those who design with Accessibility in mind.
-tags:   accessibility content-design content-first design-process prototyping
+tags: accessibility content-design content-first design-process prototyping
 ---
 
 

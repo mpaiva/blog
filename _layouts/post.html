@@ -25,22 +25,17 @@ layout: default
             }} {% endfor %} {% endif %}
           </div>
         </div>
-
         {% if page.tags.size >= 1 %}
-        <div class="post__info">
-          <div class="post__tags">
-            {% for tag in page.tags %}
-            <span href="{{ site.baseurl }}/tag/{{ tag }}" class="post__tags-tag"
-              >{{ tag }}</span
-            >
-            {% endfor %}
-          </div>
-          {% endif %}
+        <div class="post__tags">
+          {% for tag in page.tags %}
+            <a href="{{ site.baseurl }}/tag/{{ tag | downcase | replace: " ", "-" }}" class="post__tags-tag">{{ tag }}</a>
+          {% endfor %}
+        </div>
+        {% endif %}
         </div>
       </div>
     </div>
   </div>
-
   {% assign no-image = nil %} {% if page.image %}
   <div class="post__head">
     <div
