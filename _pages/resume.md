@@ -13,7 +13,13 @@ During non-working hours, I share my learnings, successes, and failures with our
 
 ---
 
-### Most recently
+### Download
+
+[Download Resume](https://docs.google.com/document/d/1UcF1ZM0Am4n1sXr1soBE_4ksHO4Te4k5BWwYY92tafk/edit?usp=sharing) for more details.
+
+Portfolio available presented upon request.
+
+### Most recently...
 
 #### Sr. User Experience Manager
 
