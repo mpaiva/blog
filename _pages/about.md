@@ -7,7 +7,7 @@ image: home.png
 
 <hr/>
 
-## This is what I do. This is what I love... 😃
+## This is what I do.<br/>This is what I love... ❤️
 
 I feel privileged and honored to have worked with many talented people. They were my teachers, and I am forever thankful for team members and leaders - the good and the bad. 
 
