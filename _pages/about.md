@@ -15,7 +15,7 @@ During non-working hours, I share my learnings, successes, and failures with our
 
 ---
 
-<small class="break">Professional Experience</small>
+<small class="break">Most recently</small>
 
 ### Sr. User Experience Manager
 
@@ -28,43 +28,27 @@ During non-working hours, I share my learnings, successes, and failures with our
 
 ---
 
-<small class="break">Current happiness</small>
+<small class="break">Community Work</small>
 
-#### Public Speaking
+### Public Speaking
 
 As a public speaker, I host frequent meet-ups and contribute in UX and Accessibility conferences worldwide, educating the community on Inclusive and Accessible Design. Contributions include:
 
-<small>38th Annual CSUN Assistive Technology Conference (2023)</small>
+#### 38th Annual CSUN Assistive Technology Conference (2023)
 
-Rapid Prototyping with Accessibility in Mind – Stop using Lorem Ipsum. It creates barriers (https://nolatin.com/)
+- <strong>Rapid Prototyping with Accessibility in Mind</strong> – Stop using Lorem Ipsum. It creates barriers (https://nolatin.com/)
 
-<small>37th Annual CSUN Assistive Technology Conference (2022)</small>
+#### 37th Annual CSUN Assistive Technology Conference (2022)
 
-Rapid Prototyping with Accessibility in Mind – Tools and methods UX professionals can use to shift-left.
+- <strong>Rapid Prototyping with Accessibility in Mind</strong> – Tools and methods UX professionals can use to shift-left.
 
-<small>ICT Accessibility Testing Symposium 2020</small>
+#### ICT Accessibility Testing Symposium 2020
 
-Awarded best presentation on "Focus-first: a new front-end approach" (https://wtfoc.us/)
+- <strong>Focus-first: a new front-end approach</strong> (https://wtfoc.us/) - Awarded best presentation.
 
 <small>Tulane University – Design Thinking for Social Innovation (2020)</small>
 
-Designing for your Future-self - In this time-travel activity, the goal is to create empathy about general disabilities and individual preferences, and how to apply that in the Design practice. I take the audience back to their childhood and then to their older-selves to have a conversation about their current disabilities and health advices.
-
-#### UX Community Leader
-
-<small>South Florida UX Community</small>
-
-My contribution to our local UX community ranges from organizing, speaking, mentoring, and promoting new local leaders. We are organized in different groups to help attend the entire UX spectrum and interests:
-
-- **UX+Fajitas** - Focused on sharing Accessibility Design, UX methods and tools best practices.
-- **IxDA South Florida** - Local Interaction Design Association chapter. Knowledge sharing on the strategic side of UX with practitioners of service design and design thinking methodologies.
-- **SOFLUX (UXPA)** - Bringing the industry's best-selling authors and scholars to provide industry trends and ethical design topics.
-- **Equity+Access** - Featuring some of the best minds in the field of disability rights and accessibility.
-- **FluxYeah!** - Our vibrant and evergrowing Slack workspace, keeping our members connected and engaged with a daily dose of knowledge sharing, industry news, and latest trends.
-- **FluxHours!** - A group of local selfless professionals volunteering to provide 1:1 sessions to help community members.
-- **YourPortfolioSUX** - A fun way to participate and practice critique sessions. Because every UX professional needs help with portfolio reviews.
-
----
+<strong>Designing for your Future-self</strong> - In this time-travel activity, the goal is to create empathy about general disabilities and individual preferences, and how to apply that in the Design practice. I take the audience back to their childhood and then to their older-selves to have a conversation about their current disabilities and health advices.
 
 <blockquote>
 I work.<br/>
@@ -84,15 +68,15 @@ One day, I'll graduate.
 
 <small>Creative Director - ProcessMap, Corp, Florida</small>
 
-Built a world-class cross-functional team of designers and front-end developers; established a healthy and fast-paced creative environment that enabled frequent engagement with end-users.
+- Built a world-class cross-functional team of designers and front-end developers; established a healthy and fast-paced creative environment that enabled frequent engagement with end-users.
 
 <small>Creative Director - Sapient Global Markets, New York City</small>
 
-Played a strategic role in introducing Lean UX practices in the design process to help accelerate the way Sapient UX teams were embedded in Agile environments. Lead multiple strategic design initiatives with Wall Street banks while directing product design teams.
+- Introduced Lean UX practices in the design process to help accelerate the way Sapient UX teams were embedded in Agile environments.
 
 <small>UX Director - Reuters, Boston/New York City</small>
 
-Thomson Reuters Eikon Mobile - Responsible for the overall interaction design of wearables, smartphones, and tablets for Thomson Reuters Eikon. Introduced responsive web design practices design systems components, while converting .Net into proper web standards adoption using HTML5 and CSS3 using Angular.
+- Responsible for the interaction design of wearables, smartphones, and tablets for Thomson Reuters Eikon.
 
 ---
 
